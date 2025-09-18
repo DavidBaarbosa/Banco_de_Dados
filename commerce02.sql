@@ -11,7 +11,7 @@ nome VARCHAR(255) NOT NULL,
 categoria VARCHAR(255) NOT NULL,
 preco DECIMAL (10,2) NOT NULL,
 estoque INT NOT NULL,
-descricao TEXT);
+descricao VARCHAR (255));
 
 -- Adicionando informações
 
