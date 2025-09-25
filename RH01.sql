@@ -1,6 +1,6 @@
 -- Criando o banco de dados
 
-CREATE DATABASE RH_Empresa;
+
 USE RH_Empresa;
 
 -- Criando tabela dos funcionarios
